@@ -1,0 +1,67 @@
+.skyline {
+	background: url("http://www.peachridgeglass.com/wp-content/uploads/2013/04/Houston_Skyline.jpg");
+	height: 300px;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.centercontent {
+	margin: 0 auto;
+	max-width: 33.333%;
+	max-height: 900px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	position: relative;
+	margin-top: 40px;
+}
+
+.centerheading {
+	font-size: 20px;
+	font-weight: bold;
+	color: #3c464d;
+	}
+
+.centerbyline {
+	color: #6a7686;
+}
+
+.leftcontent {
+	height: 300px;
+	width: 200px;
+	font-family: sans-serif;
+	box-sizing: border-box;
+	position: absolute;
+	left: -200px;
+}
+
+.leftheading {
+	font-size: 15px;
+	color: #646466
+}
+
+.lefttext {
+	font-size: 15px;
+	color: #a5a6a7;
+
+}
+
+img {
+	width:80px;
+	height:80px;
+	background:#263745;
+	border-radius:50%;
+	position: absolute;
+	bottom: 310px;
+
+}
+
+.notification {
+	display: block;
+	position: fixed;
+	right: 30px;
+	bottom: 50px;
+}

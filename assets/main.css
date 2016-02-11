@@ -55,6 +55,10 @@
 
 }
 
+a {
+	color: blue;
+}
+
 label {
 	display: block;
 	padding: 10px;
